@@ -1,0 +1,45 @@
+{
+    "products": [
+      {
+        "id": "ELE-001",
+        "product_name": "Samsung Galaxy S21",
+        "product_description": "The Samsung Galaxy S21 is a flagship smartphone with a stunning display and powerful performance.",
+        "price": 799.99,
+        "product_category": "Smartphones",
+        "product_image": "samsung_galaxy_s21.jpg"
+      },
+      {
+        "id": "ELE-002",
+        "product_name": "Dell XPS 13 Laptop",
+        "product_description": "The Dell XPS 13 Laptop is a sleek and powerful ultrabook with a high-resolution InfinityEdge display.",
+        "price": 1299.99,
+        "product_category": "Laptops",
+        "product_image": "dell_xps_13.jpg"
+      },
+      {
+        "id": "ELE-003",
+        "product_name": "Sony Alpha A7 III Camera",
+        "product_description": "The Sony Alpha A7 III is a mirrorless camera with 24.2MP resolution and 4K video recording capabilities.",
+        "price": 1999.00,
+        "product_category": "Cameras",
+        "product_image": "sony_alpha_a7iii.jpg"
+      },
+      {
+        "id": "ELE-004",
+        "product_name": "Bose QuietComfort 35 II Headphones",
+        "product_description": "The Bose QuietComfort 35 II Headphones offer industry-leading noise cancellation and exceptional sound quality.",
+        "price": 299.95,
+        "product_category": "Headphones",
+        "product_image": "bose_qc35ii.jpg"
+      },
+      {
+        "id": "ELE-005",
+        "product_name": "Samsung 55-Inch 4K UHD Smart TV",
+        "product_description": "This Samsung 4K UHD Smart TV delivers stunning visuals and features a variety of streaming options.",
+        "price": 799.00,
+        "product_category": "Televisions",
+        "product_image": "samsung_4k_tv.jpg"
+      }
+    ]
+  }
+  
